@@ -1,0 +1,23 @@
+{
+    "displayMode": "format",
+    "judgments": [
+        {
+            "text": "<u>115",
+            "color": [1, 1, 1, 1],
+            "threshold": 0,
+            "fade": false
+        }
+    ],
+    "chainHeadJudgments": [
+        {
+            "text": "<u>85",
+            "color": [1, 1, 1, 1],
+            "threshold": 0,
+            "fade": false
+        }
+    ],
+    "chainLinkDisplay": {
+        "text": "<u>20",
+        "color": [1, 1, 1, 1]
+    }
+}

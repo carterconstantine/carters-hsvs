@@ -1,0 +1,179 @@
+{
+    "displayMode": "format",
+    "judgments": [
+        {
+            "text": "%B%A<size=175%>✞",
+            "color": [1, 1, 1, 1],
+            "threshold": 115,
+            "fade": false
+        },
+        {
+            "text": "%B%A<size=150%>%C14",
+            "color": [0.75, 0.45, 1, 1],
+            "threshold": 114,
+            "fade": false
+        },
+        {
+            "text": "%B%A<size=125%>%C13",
+            "color": [0.55, 0.15, 0.9, 1],
+            "threshold": 113,
+            "fade": false
+        },
+        {
+            "text": "%B%A<size=125%>%C12",
+            "color": [0.55, 0.15, 0.9, 1],
+            "threshold": 112,
+            "fade": false
+        },
+        {
+            "text": "%B%A<size=110%>%C11",
+            "color": [0.25, 1, 0.35, 1],
+            "threshold": 111,
+            "fade": false
+        },
+        {
+            "text": "%B%A<size=110%>%C10",
+            "color": [0.25, 1, 0.35, 1],
+            "threshold": 110,
+            "fade": false
+        },
+        {
+            "text": "%B%A<size=110%>%C9",
+            "color": [0.25, 1, 0.35, 1],
+            "threshold": 109,
+            "fade": false
+        },
+        {
+            "text": "%B%A%C8",
+            "color": [1, 1, 0.125, 1],
+            "threshold": 108,
+            "fade": false
+        },
+        {
+            "text": "%B%A%C7",
+            "color": [1, 1, 0.125, 1],
+            "threshold": 107,
+            "fade": false
+        },
+        {
+            "text": "%B%A%C6",
+            "color": [1, 1, 0.125, 1],
+            "threshold": 106,
+            "fade": false
+        },
+        {
+            "text": "%B%A%C5",
+            "color": [1, 1, 0.125, 1],
+            "threshold": 105,
+            "fade": false
+        },
+        {
+            "text": "%B%A%C4",
+            "color": [1, 1, 0.125, 1],
+            "threshold": 104,
+            "fade": false
+        },
+        {
+            "text": "%B%A%C3",
+            "color": [1, 1, 0.125, 1],
+            "threshold": 103,
+            "fade": false
+        },
+        {
+            "text": "%B%A%C2",
+            "color": [1, 1, 0.125, 1],
+            "threshold": 102,
+            "fade": false
+        },
+        {
+            "text": "%B%A%C1",
+            "color": [1, 1, 0.125, 1],
+            "threshold": 101,
+            "fade": false
+        },
+        {
+            "text": "%B%A%C0",
+            "color": [1, 1, 0.125, 1],
+            "threshold": 100,
+            "fade": false
+        },
+        {
+            "text": "%B%A<size=80%>%C%s",
+            "color": [1, 1, 0.125, 1],
+            "threshold": 0,
+            "fade": false
+        }
+    ],
+    "chainHeadJudgments": [
+        {
+            "text": "%B<size=175%>✞",
+            "color": [1, 1, 1, 1],
+            "threshold": 85,
+            "fade": false
+        },
+        {
+            "text": "%B<size=150%>%C%s",
+            "color": [0.75, 0.45, 1, 1],
+            "threshold": 84,
+            "fade": false
+        },
+        {
+            "text": "%B<size=125%>%C%s",
+            "color": [0.55, 0.15, 0.9, 1],
+            "threshold": 82,
+            "fade": false
+        },
+        {
+            "text": "%B<size=110%>%C%s",
+            "color": [0.25, 1, 0.35, 1],
+            "threshold": 79,
+            "fade": false
+        },
+        {
+            "text": "%B%C%s",
+            "color": [1, 1, 0.125, 1],
+            "threshold": 70,
+            "fade": false
+        },
+        {
+            "text": "%B<size=80%>%C%s",
+            "color": [1, 1, 0.125, 1],
+            "threshold": 70,
+            "fade": false
+        }
+    ],
+    "chainLinkDisplay": {
+        "text": "<size=80%>✞",
+        "color": [1, 1, 1, 1]
+    },
+    "accuracyJudgments": [
+        {
+            "threshold": 15,
+            "text": "<u>"
+        },
+        {
+            "threshold": 0,
+            "text": ""
+        }
+    ],
+    "beforeCutAngleJudgments": [
+        {
+            "threshold": 70,
+            "text": ""
+        },
+        {
+            "threshold": 0,
+            "text": "<alpha=#7f>"
+        }
+    ],
+    "afterCutAngleJudgments": [
+        {
+            "threshold": 30,
+            "text": ""
+        },
+        {
+            "threshold": 0,
+            "text": "<alpha=#7f>"
+        }
+    ]
+}

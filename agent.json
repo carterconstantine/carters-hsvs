@@ -1,0 +1,215 @@
+{
+    "displayMode": "format",
+    "judgments": [
+        {
+            "text": "<size=250%><color=#A2CCE8>7<color=#8798C1>_<color=#664491>7",
+            "color": [1, 1, 1, 1],
+            "threshold": 115,
+            "fade": false
+        },
+        {
+            "text": "<size=220%><color=#A2CCE8>1<color=#8798C1>1<color=#664491>4",
+            "threshold": 114,
+            "color": [1, 1, 1, 1],
+            "fade": false
+        },
+        {
+            "text": "<size=220%><color=#72B9E9>1<color=#6889C1>1<color=#5C388F>3",
+            "threshold": 113,
+            "color": [1, 1, 1, 1],
+            "fade": false
+        },
+        {
+            "text": "<size=210%><color=#72B9E9>1<color=#6889C1>1<color=#5C388F>2",
+            "threshold": 112,
+            "color": [1, 1, 1, 1],
+            "fade": false
+        },
+        {
+            "text": "<size=210%><color=#2D719F>1<color=#2F5086>1<color=#300967>1",
+            "threshold": 111,
+            "color": [1, 1, 1, 1],
+            "fade": false
+        },
+        {
+            "text": "<size=200%><color=#2D719F>1<color=#2F5086>1<color=#300967>0",
+            "threshold": 110,
+            "color": [1, 1, 1, 1],
+            "fade": false
+        },
+        {
+            "text": "<size=170%><color=#2D719F>9",
+            "threshold": 109,
+            "color": [1, 1, 1, 1],
+            "fade": false
+        },
+        {
+            "text": "<size=170%><color=#2D719F>8",
+            "threshold": 108,
+            "color": [1, 1, 1, 1],
+            "fade": false
+        },
+        {
+            "text": "<size=170%><color=#2D719F>7",
+            "threshold": 107,
+            "color": [1, 1, 1, 1],
+            "fade": false
+        },
+        {
+            "text": "<size=170%><color=#664491>6",
+            "threshold": 106,
+            "color": [1, 1, 1, 1],
+            "fade": false
+        },
+        {
+            "text": "<size=170%><color=#613F8D>5",
+            "threshold": 105,
+            "color": [1, 1, 1, 1],
+            "fade": false
+        },
+        {
+            "text": "<size=170%><color=#593984>4",
+            "threshold": 104,
+            "color": [1, 1, 1, 1],
+            "fade": false
+        },
+        {
+            "text": "<size=170%><color=#543380>3",
+            "threshold": 103,
+            "color": [1, 1, 1, 1],
+            "fade": false
+        },
+        {
+            "text": "<size=170%><color=#4D2C77>2",
+            "threshold": 102,
+            "color": [1, 1, 1, 1],
+            "fade": false
+        },
+        {
+            "text": "<size=170%><color=#45266E>1",
+            "threshold": 101,
+            "color": [1, 1, 1, 1],
+            "fade": false
+        },
+        {
+            "text": "<size=170%><color=#3E1F65>0",
+            "threshold": 100,
+            "color": [1, 1, 1, 1],
+            "fade": false
+        },
+        {
+            "text": "<size=170%><color=#35165A>:<color=#280F48>(",
+            "threshold": 0,
+            "color": [1, 1, 1, 1],
+            "fade": false
+        }
+    ],
+    "chainHeadJudgments": [
+        {
+            "text": "<size=250%><color=#A2CCE8>7<color=#8798C1>_<color=#664491>7",
+            "color": [1, 1, 1, 1],
+            "threshold": 85,
+            "fade": false
+        },
+        {
+            "text": "<size=220%><color=#A2CCE8>1<color=#8798C1>1<color=#664491>4",
+            "threshold": 84,
+            "color": [1, 1, 1, 1],
+            "fade": false
+        },
+        {
+            "text": "<size=220%><color=#72B9E9>1<color=#6889C1>1<color=#5C388F>3",
+            "threshold": 83,
+            "color": [1, 1, 1, 1],
+            "fade": false
+        },
+        {
+            "text": "<size=210%><color=#72B9E9>1<color=#6889C1>1<color=#5C388F>2",
+            "threshold": 82,
+            "color": [1, 1, 1, 1],
+            "fade": false
+        },
+        {
+            "text": "<size=210%><color=#2D719F>1<color=#2F5086>1<color=#300967>1",
+            "threshold": 81,
+            "color": [1, 1, 1, 1],
+            "fade": false
+        },
+        {
+            "text": "<size=200%><color=#2D719F>1<color=#2F5086>1<color=#300967>0",
+            "threshold": 80,
+            "color": [1, 1, 1, 1],
+            "fade": false
+        },
+        {
+            "text": "<size=170%><color=#2D719F>9",
+            "threshold": 79,
+            "color": [1, 1, 1, 1],
+            "fade": false
+        },
+        {
+            "text": "<size=170%><color=#2D719F>8",
+            "threshold": 78,
+            "color": [1, 1, 1, 1],
+            "fade": false
+        },
+        {
+            "text": "<size=170%><color=#2D719F>7",
+            "threshold": 77,
+            "color": [1, 1, 1, 1],
+            "fade": false
+        },
+        {
+            "text": "<size=170%><color=#664491>6",
+            "threshold": 76,
+            "color": [1, 1, 1, 1],
+            "fade": false
+        },
+        {
+            "text": "<size=170%><color=#613F8D>5",
+            "threshold": 75,
+            "color": [1, 1, 1, 1],
+            "fade": false
+        },
+        {
+            "text": "<size=170%><color=#593984>4",
+            "threshold": 74,
+            "color": [1, 1, 1, 1],
+            "fade": false
+        },
+        {
+            "text": "<size=170%><color=#543380>3",
+            "threshold": 73,
+            "color": [1, 1, 1, 1],
+            "fade": false
+        },
+        {
+            "text": "<size=170%><color=#4D2C77>2",
+            "threshold": 72,
+            "color": [1, 1, 1, 1],
+            "fade": false
+        },
+        {
+            "text": "<size=170%><color=#45266E>1",
+            "threshold": 71,
+            "color": [1, 1, 1, 1],
+            "fade": false
+        },
+        {
+            "text": "<size=170%><color=#3E1F65>0",
+            "threshold": 70,
+            "color": [1, 1, 1, 1],
+            "fade": false
+        },
+        {
+            "text": "<size=170%><color=#35165A>:<color=#280F48>(",
+            "threshold": 0,
+            "color": [1, 1, 1, 1],
+            "fade": false
+        }
+    ],
+    "chainLinkDisplay": {
+        "text": "",
+        "color": [1, 1, 1, 1]
+    }
+}

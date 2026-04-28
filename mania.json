@@ -1,0 +1,83 @@
+{
+    "displayMode": "format",
+    "judgments": [
+        {
+            "text": "<color=#ff0000>M<color=#ff9f00>A<color=#bfff00>R<color=#20ff00>V<color=#00ff80>E<color=#00dfff>L<color=#0040ff>O<color=#6000ff>U<color=#ff00ff>S",
+            "color": [1, 1, 1, 1],
+            "threshold": 115,
+            "fade": false
+        },
+        {
+            "text": "<color=#ffd700>PERFECT",
+            "color": [1, 1, 1, 1],
+            "threshold": 114,
+            "fade": false
+        },
+        {
+            "text": "<color=#32cd32>GREAT",
+            "color": [1, 1, 1, 1],
+            "threshold": 110,
+            "fade": false
+        },
+        {
+            "text": "<color=#1e90ff>GOOD",
+            "color": [1, 1, 1, 1],
+            "threshold": 100,
+            "fade": false
+        },
+        {
+            "text": "<color=#ff00ff>OKAY",
+            "color": [1, 1, 1, 1],
+            "threshold": 50,
+            "fade": false
+        },
+        {
+            "text": "<color=#696969>MEH",
+            "color": [1, 1, 1, 1],
+            "threshold": 0,
+            "fade": false
+        }
+    ],
+    "chainHeadJudgments": [
+        {
+            "text": "<color=#ff0000>M<color=#ff9f00>A<color=#bfff00>R<color=#20ff00>V<color=#00ff80>E<color=#00dfff>L<color=#0040ff>O<color=#6000ff>U<color=#ff00ff>S",
+            "color": [1, 1, 1, 1],
+            "threshold": 85,
+            "fade": false
+        },
+        {
+            "text": "<color=#ffd700>PERFECT",
+            "color": [1, 1, 1, 1],
+            "threshold": 84,
+            "fade": false
+        },
+        {
+            "text": "<color=#32cd32>GREAT",
+            "color": [1, 1, 1, 1],
+            "threshold": 80,
+            "fade": false
+        },
+        {
+            "text": "<color=#1e90ff>GOOD",
+            "color": [1, 1, 1, 1],
+            "threshold": 70,
+            "fade": false
+        },
+        {
+            "text": "<color=#ff00ff>OKAY",
+            "color": [1, 1, 1, 1],
+            "threshold": 40,
+            "fade": false
+        },
+        {
+            "text": "<color=#696969>MEH",
+            "color": [1, 1, 1, 1],
+            "threshold": 0,
+            "fade": false
+        }
+    ],
+    "chainLinkDisplay": {
+        "text": "",
+        "color": [1, 1, 1, 1]
+    }
+}

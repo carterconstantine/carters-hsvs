@@ -1,0 +1,53 @@
+{
+    "displayMode": "format",
+    "judgments": [
+        {
+            "text": "%B%A%C%s",
+            "color": [1, 1, 1, 1],
+            "threshold": 0,
+            "fade": false
+        }
+    ],
+    "chainHeadJudgments": [
+        {
+            "text": "%B%C%s",
+            "color": [1, 1, 1, 1],
+            "threshold": 0,
+            "fade": false
+        }
+    ],
+    "chainLinkDisplay": {
+        "text": "<u>%s",
+        "color": [1, 1, 1, 1]
+    },
+    "accuracyJudgments": [
+        {
+            "threshold": 15,
+            "text": "<u>"
+        },
+        {
+            "threshold": 0,
+            "text": ""
+        }
+    ],
+    "beforeCutAngleJudgments": [
+        {
+            "threshold": 70,
+            "text": ""
+        },
+        {
+            "threshold": 0,
+            "text": "<alpha=#7f>"
+        }
+    ],
+    "afterCutAngleJudgments": [
+        {
+            "threshold": 30,
+            "text": ""
+        },
+        {
+            "threshold": 0,
+            "text": "<alpha=#7f>"
+        }
+    ]
+}

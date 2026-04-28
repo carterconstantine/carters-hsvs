@@ -1,0 +1,113 @@
+{
+    "displayMode": "format",
+    "judgments": [
+        {
+            "text": "%B%A<size=175%>🐾",
+            "color": [1, 1, 1, 1],
+            "threshold": 115,
+            "fade": false
+        },
+        {
+            "text": "%B%A<size=120%>%C%s",
+            "color": [1, 1, 1, 1],
+            "threshold": 114,
+            "fade": false
+        },
+        {
+            "text": "%B%A<size=120%>%C%s",
+            "color": [0.5, 0, 1, 1],
+            "threshold": 110,
+            "fade": false
+        },
+        {
+            "text": "%B%A<size=120%>%C%s",
+            "color": [0, 1, 0, 1],
+            "threshold": 105,
+            "fade": false
+        },
+        {
+            "text": "%B%A%C%s",
+            "color": [1, 0, 1, 1],
+            "threshold": 100,
+            "fade": false
+        },
+        {
+            "text": "%B%A<size=80%>%C*bap*",
+            "color": [0.3, 0.3, 0.3, 1],
+            "threshold": 0,
+            "fade": false
+        }
+    ],
+    "chainHeadJudgments": [
+        {
+            "text": "%B%A<size=175%>🐾",
+            "color": [1, 1, 1, 1],
+            "threshold": 85,
+            "fade": false
+        },
+        {
+            "text": "%B%A<size=120%>%C%s",
+            "color": [1, 1, 1, 1],
+            "threshold": 84,
+            "fade": false
+        },
+        {
+            "text": "%B%A<size=120%>%C%s",
+            "color": [0.5, 0, 1, 1],
+            "threshold": 80,
+            "fade": false
+        },
+        {
+            "text": "%B%A<size=120%>%C%s",
+            "color": [0, 1, 0, 1],
+            "threshold": 75,
+            "fade": false
+        },
+        {
+            "text": "%B%A%C%s",
+            "color": [1, 0, 1, 1],
+            "threshold": 70,
+            "fade": false
+        },
+        {
+            "text": "%B%A<size=80%>%C*bap*",
+            "color": [0.3, 0.3, 0.3, 1],
+            "threshold": 0,
+            "fade": false
+        }
+    ],
+    "chainLinkDisplay": {
+        "text": "",
+        "color": [1, 1, 1, 1]
+    },
+    "accuracyJudgments": [
+        {
+            "threshold": 15,
+            "text": "<u>"
+        },
+        {
+            "threshold": 0,
+            "text": ""
+        }
+    ],
+    "beforeCutAngleJudgments": [
+        {
+            "threshold": 70,
+            "text": ""
+        },
+        {
+            "threshold": 0,
+            "text": "<alpha=#7f>"
+        }
+    ],
+    "afterCutAngleJudgments": [
+        {
+            "threshold": 30,
+            "text": ""
+        },
+        {
+            "threshold": 0,
+            "text": "<alpha=#7f>"
+        }
+    ]
+}

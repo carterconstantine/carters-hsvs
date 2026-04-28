@@ -1,0 +1,257 @@
+{
+    "displayMode": "format",
+    "judgments": [
+        {
+            "text": "<size=250%><u>115",
+            "color": [1, 1, 1, 1],
+            "threshold": 115,
+            "fade": false
+        },
+        {
+            "text": "<size=200%><color=#FFFFFF>%B%C1<color=#D0FFFF>%C1<color=#93FFFF>%C4</u></u></u><color=#93FFFF>%A",
+            "color": [1, 1, 1, 1],
+            "threshold": 114,
+            "fade": false
+        },
+        {
+            "text": "<size=180%><color=#00FFFF>%B%C1<color=#00FFED>%C1<color=#00FFDA>%C3</u></u></u><color=#00FFDA>%A",
+            "color": [1, 1, 1, 1],
+            "threshold": 113,
+            "fade": false
+        },
+        {
+            "text": "<size=160%><color=#00FFED>%B%C1<color=#00FFDA>%C1<color=#00FFC6>%C2</u></u></u><color=#00FFC6>%A",
+            "color": [1, 1, 1, 1],
+            "threshold": 112,
+            "fade": false
+        },
+        {
+            "text": "<size=140%><color=#00FFDA>%B%C1<color=#00FFC6>%C1<color=#00FFAE>%C1</u></u></u><color=#00FFAE>%A",
+            "color": [1, 1, 1, 1],
+            "threshold": 111,
+            "fade": false
+        },
+        {
+            "text": "<size=120%><color=#00FFC6>%B%C1<color=#00FFAE>%C1<color=#00FF93>%C0</u></u></u><color=#00FF93>%A",
+            "color": [1, 1, 1, 1],
+            "threshold": 110,
+            "fade": false
+        },
+        {
+            "text": "<color=#00FFAE>%B%C1<color=#00FF93>%C0<color=#00FF72>%C9</u></u></u><color=#00FF72>%A",
+            "color": [1, 1, 1, 1],
+            "threshold": 109,
+            "fade": false
+        },
+        {
+            "text": "<color=#00FF93>%B%C1<color=#00FF72>%C0<color=#00FF42>%C8</u></u></u><color=#00FF42>%A",
+            "color": [1, 1, 1, 1],
+            "threshold": 108,
+            "fade": false
+        },
+        {
+            "text": "<color=#00FF72>%B%C1<color=#00FF42>%C0<color=#42FF00>%C7</u></u></u><color=#42FF00>%A",
+            "color": [1, 1, 1, 1],
+            "threshold": 107,
+            "fade": false
+        },
+        {
+            "text": "<color=#00FF42>%B%C1<color=#42FF00>%C0<color=#72FF00>%C6</u></u></u><color=#72FF00>%A",
+            "color": [1, 1, 1, 1],
+            "threshold": 106,
+            "fade": false
+        },
+        {
+            "text": "<color=#42FF00>%B%C1<color=#72FF00>%C0<color=#93FF00>%C5</u></u></u><color=#93FF00>%A",
+            "color": [1, 1, 1, 1],
+            "threshold": 105,
+            "fade": false
+        },
+        {
+            "text": "<color=#72FF00>%B%C1<color=#93FF00>%C0<color=#AEFF00>%C4</u></u></u><color=#AEFF00>%A",
+            "color": [1, 1, 1, 1],
+            "threshold": 104,
+            "fade": false
+        },
+        {
+            "text": "<color=#93FF00>%B%C1<color=#AEFF00>%C0<color=#C6FF00>%C3</u></u></u><color=#C6FF00>%A",
+            "color": [1, 1, 1, 1],
+            "threshold": 103,
+            "fade": false
+        },
+        {
+            "text": "<color=#AEFF00>%B%C1<color=#C6FF00>%C0<color=#DAFF00>%C2</u></u></u><color=#DAFF00>%A",
+            "color": [1, 1, 1, 1],
+            "threshold": 102,
+            "fade": false
+        },
+        {
+            "text": "<color=#C6FF00>%B%C1<color=#DAFF00>%C0<color=#EDFF00>%C1</u></u></u><color=#EDFF00>%A",
+            "color": [1, 1, 1, 1],
+            "threshold": 101,
+            "fade": false
+        },
+        {
+            "text": "<color=#DAFF00>%B%C1<color=#EDFF00>%C0<color=#FFFF00>%C0</u></u></u><color=#FFFF00>%A",
+            "color": [1, 1, 1, 1],
+            "threshold": 100,
+            "fade": false
+        },
+        {
+            "text": "<color=#515151>%B%Cb<color=#434343>%Cr<color=#363636>%Co<color=#282828>%C?</u></u></u></u><color=#282828>%A",
+            "color": [1, 1, 1, 1],
+            "threshold": 50,
+            "fade": false
+        },
+        {
+            "text": "<color=#515151>%B%C?<color=#3d3d3d>%C?<color=#282828>%C?</u></u></u><color=#282828>%A",
+            "color": [1, 1, 1, 1],
+            "threshold": 0,
+            "fade": false
+        }
+    ],
+    "chainHeadJudgments": [
+        {
+            "text": "<size=250%><u>85",
+            "color": [1, 1, 1, 1],
+            "threshold": 85,
+            "fade": false
+        },
+        {
+            "text": "<size=200%><color=#FFFFFF>%B%C8<color=#93FFFF>%C4",
+            "color": [1, 1, 1, 1],
+            "threshold": 84,
+            "fade": false
+        },
+        {
+            "text": "<size=180%><color=#00FFFF>%B%C8<color=#00FFDA>%C3",
+            "color": [1, 1, 1, 1],
+            "threshold": 83,
+            "fade": false
+        },
+        {
+            "text": "<size=160%><color=#00FFED>%B%C8<color=#00FFC6>%C2",
+            "color": [1, 1, 1, 1],
+            "threshold": 82,
+            "fade": false
+        },
+        {
+            "text": "<size=140%><color=#00FFDA>%B%C8<color=#00FFAE>%C1",
+            "color": [1, 1, 1, 1],
+            "threshold": 81,
+            "fade": false
+        },
+        {
+            "text": "<size=120%><color=#00FFC6>%B%C8<color=#00FF93>%C0",
+            "color": [1, 1, 1, 1],
+            "threshold": 80,
+            "fade": false
+        },
+        {
+            "text": "<color=#00FFAE>%B%C7<color=#00FF72>%C9",
+            "color": [1, 1, 1, 1],
+            "threshold": 79,
+            "fade": false
+        },
+        {
+            "text": "<color=#00FF93>%B%C7<color=#00FF42>%C8",
+            "color": [1, 1, 1, 1],
+            "threshold": 78,
+            "fade": false
+        },
+        {
+            "text": "<color=#00FF72>%B%C7<color=#42FF00>%C7",
+            "color": [1, 1, 1, 1],
+            "threshold": 77,
+            "fade": false
+        },
+        {
+            "text": "<color=#00FF42>%B%C7<color=#72FF00>%C6",
+            "color": [1, 1, 1, 1],
+            "threshold": 76,
+            "fade": false
+        },
+        {
+            "text": "<color=#42FF00>%B%C7<color=#93FF00>%C5",
+            "color": [1, 1, 1, 1],
+            "threshold": 75,
+            "fade": false
+        },
+        {
+            "text": "<color=#72FF00>%B%C7<color=#AEFF00>%C4",
+            "color": [1, 1, 1, 1],
+            "threshold": 74,
+            "fade": false
+        },
+        {
+            "text": "<color=#93FF00>%B%C7<color=#C6FF00>%C3",
+            "color": [1, 1, 1, 1],
+            "threshold": 73,
+            "fade": false
+        },
+        {
+            "text": "<color=#AEFF00>%B%C7<color=#DAFF00>%C2",
+            "color": [1, 1, 1, 1],
+            "threshold": 72,
+            "fade": false
+        },
+        {
+            "text": "<color=#C6FF00>%B%C7<color=#EDFF00>%C1",
+            "color": [1, 1, 1, 1],
+            "threshold": 71,
+            "fade": false
+        },
+        {
+            "text": "<color=#DAFF00>%B%C7<color=#FFFF00>%C0",
+            "color": [1, 1, 1, 1],
+            "threshold": 70,
+            "fade": false
+        },
+        {
+            "text": "<color=#515151>%B%Cb<color=#434343>%Cr<color=#363636>%Co<color=#282828>%C?",
+            "color": [1, 1, 1, 1],
+            "threshold": 50,
+            "fade": false
+        },
+        {
+            "text": "<color=#515151>%B%C?<color=#3d3d3d>%C?<color=#282828>%C?",
+            "color": [1, 1, 1, 1],
+            "threshold": 0,
+            "fade": false
+        }
+    ],
+    "chainLinkDisplay": {
+        "text": "",
+        "color": [1, 1, 1, 1]
+    },
+    "accuracyJudgments": [
+        {
+            "threshold": 15,
+            "text": "<u>"
+        },
+        {
+            "threshold": 0,
+            "text": ""
+        }
+    ],
+    "beforeCutAngleJudgments": [
+        {
+            "threshold": 70,
+            "text": ""
+        },
+        {
+            "threshold": 0,
+            "text": "‹ "
+        }
+    ],
+    "afterCutAngleJudgments": [
+        {
+            "threshold": 30,
+            "text": ""
+        },
+        {
+            "threshold": 0,
+            "text": " ›"
+        }
+    ]
+}
